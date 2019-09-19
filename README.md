@@ -4,6 +4,8 @@ This repository contains the excericises for the assignment of part 1.
 
 ## Lesson 1
 
+Introductiory slides: https://github.com/unisg-progr-19/slides
+
 ### Technical note
 
 Many technical problems will vanish if you use the latest version of R (3.6.1) and RStudio (1.2). R and RStudio are distinct products and must be installed separately.
