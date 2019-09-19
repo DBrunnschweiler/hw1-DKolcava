@@ -4,7 +4,7 @@ This repository contains the excericises for the assignment of part 1.
 
 ## Lesson 1
 
-Introductiory slides: https://github.com/unisg-progr-19/slides
+Introductory slides: https://github.com/unisg-progr-19/slides
 
 ### Technical note
 
